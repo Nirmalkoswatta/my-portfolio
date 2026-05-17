@@ -25,7 +25,7 @@ const Header = () => {
         <div className={`flex justify-between items-center bg-transparent rounded-2xl p-4 md:p-6 transition-all duration-300 ${scrolled ? 'shadow-lg' : ''}`}>
           <div className='text-white font-bold text-xl tracking-tighter'>
             <a href='#Profile' className='hover:opacity-80 transition-opacity'>
-              SV<span className='text-blue-400'>.</span>
+              Senara Jayawardena<span className='text-blue-400'>.</span>
             </a>
           </div>
 

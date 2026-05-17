@@ -53,7 +53,7 @@ const Profile = () => {
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               href={PROFILE.resumeLink}
-              download
+              download="Senara jayawardena CV (1).pdf"
               target='_blank'
               rel="noopener noreferrer"
               className='px-8 py-4 bg-white text-black font-bold rounded-2xl hover:bg-stone-200 transition-colors shadow-xl'

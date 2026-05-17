@@ -1,6 +1,5 @@
 import Sen from '../assets/image/Sen.jpg'
 import Project1 from '../assets/image/C.png'
-import Sena_CV from '../assets/image/SENA.pdf'
 import A from '../assets/image/A.png'
 import M1 from '../assets/image/M1.png'
 import M2 from '../assets/image/M2.PNG'
@@ -22,7 +21,7 @@ export const PROFILE = {
     introduction: "I am an undergraduate student in Information Technology at SLIIT City University, passionate about creating intuitive and engaging digital experiences. With a strong foundation in front-end development, UI/UX design, and problem-solving, I enjoy transforming ideas into user-centered interfaces that are both functional and visually appealing. Currently building my expertise as a UI/UX Engineer, I bring analytical thinking and creativity to every project I work on—from wireframes to interactive prototypes. My academic background has strengthened my skills in design thinking, usability testing, and modern development tools. Looking ahead, I’m excited to explore the intersection of design and cybersecurity. I am currently pursuing my Bachelor's degree in Computer Science at the University of Bedfordshire, UK.",
     image: Sen,
     resumeLinkText: "Download Resume",
-    resumeLink: Sena_CV,
+    resumeLink: "/Senara jayawardena CV (1).pdf",
 };
 
 export const EDUCATION = [

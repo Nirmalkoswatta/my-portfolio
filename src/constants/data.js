@@ -8,7 +8,7 @@ import MS from '../assets/image/MS.png'
 import P from '../assets/image/P.png'
 import HND from '../assets/image/HND.jpg'
 import PM from '../assets/image/PM.png'
-import B from '../assets/image/Ball.png'
+import G from '../assets/image/Ball.png'
 export const LINKS = [
     { href: "#Profile", label: "Profile" },
     { href: "#Education", label: "Education" },
@@ -94,7 +94,7 @@ export const PROJECTS = [
      {
         name: "The Ball",
         description: "A game developed using PhaserJs, showcasing interactive gameplay and engaging graphics.",
-        image: B,
+        image: G,
         tools: "Adobe Dreamweaver, WAMP Server, MySQL",
         languages: "ReactJs, NodeJs, Firebase, PhaserJs",
         link: "https://github.com/Senara-R/Heart-Game",

@@ -7,6 +7,7 @@ import ETF from '../assets/image/ETF.png'
 import MS from '../assets/image/MS.png'
 import P from '../assets/image/P.png'
 import HND from '../assets/image/HND.jpg'
+import PM from '../assets/image/PM.png'
 
 export const LINKS = [
     { href: "#Profile", label: "Profile" },
@@ -48,6 +49,12 @@ export const EDUCATION = [
         school: "University Of Michigan",
         image: M2,
         year: "2025-Dec",
+    },
+    {
+        level: "Foundations of Project Management",
+        school: "Google",
+        image: PM,
+        year: "2026-Jul",
     },
 ];
 

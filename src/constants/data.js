@@ -8,7 +8,7 @@ import MS from '../assets/image/MS.png'
 import P from '../assets/image/P.png'
 import HND from '../assets/image/HND.jpg'
 import PM from '../assets/image/PM.PNG'
-import G from '../assets/image/Ball.png'
+import G from '../assets/image/Ball.PNG'
 export const LINKS = [
     { href: "#Profile", label: "Profile" },
     { href: "#Education", label: "Education" },
